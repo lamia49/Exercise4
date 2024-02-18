@@ -66,15 +66,13 @@ public class Main {
         //qustion4
 
 
-//        ArrayList<Integer> numbers=new ArrayList<Integer>();
-//        numbers.add(20);
-//        numbers.add(30);
-//        numbers.add(40);
-//        ArrayList<Integer>afterswap=new ArrayList<Integer>();
-//            afterswap.add(numbers.get(2));
-//            afterswap.add(numbers.get(1));
-//            afterswap.add(numbers.get(0) );
-//         System.out.print(afterswap);
+//        int[]numbers={20,30,40};
+//       for(int i=0;i<numbers.length;i++){
+//             int swap = numbers[0];
+//             numbers[0]= numbers[numbers.length-1];
+//             numbers[numbers.length-1] = swap;
+//           System.out.println(numbers[i]);
+//       }
 
 
         //quastion5
